@@ -2,7 +2,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Aditya Naman Soni, a Bioinformatic researcher worked in [CSIR-CCMB](https://www.ccmb.res.in/) and [CDFD](http://www.cdfd.org.in/). I am a Biotech enthusiast .  Feel free to connect with me here:
+I am Aditya Naman Soni, a Bioinformatic researcher worked @ [CSIR-CCMB](https://www.ccmb.res.in/) and [CDFD](http://www.cdfd.org.in/). I am a Biotech enthusiast .  Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdityaNamanSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-naman-soni/)](https://www.linkedin.com/in/aditya-naman-soni/)
 [![Gmail Badge](https://img.shields.io/badge/-aditya19991010-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya19991010@gmail.com)](mailto:aditya19991010@gmail.com)
