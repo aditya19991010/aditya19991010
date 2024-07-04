@@ -5,9 +5,6 @@
 I am Aditya Naman Soni, a Bioinformatic researcher worked in [CSIR-CCMB](https://www.ccmb.res.in/) and [CDFD](http://www.cdfd.org.in/). I am a Biotech enthusiast .  Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdityaNamanSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-naman-soni/)](https://www.linkedin.com/in/aditya-naman-soni/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-aditya19991010-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya19991010@gmail.com)](mailto:aditya19991010@gmail.com)
 
 ## ⚡ Technologies
