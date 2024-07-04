@@ -1,5 +1,5 @@
-#About Me
-
+# About Me
+______________________________________________________________________________________________________________________
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Aditya Naman Soni, a Bioinformatic researcher worked @ [CSIR-CCMB](https://www.ccmb.res.in/) and [CDFD](http://www.cdfd.org.in/). I am a Biotech enthusiast .  Feel free to connect with me here:
