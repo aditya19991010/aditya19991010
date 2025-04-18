@@ -10,7 +10,7 @@ I am Aditya Naman Soni, a Bioinformatic researcher worked @ [CSIR-CCMB](https://
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![R](https://www.clipartmax.com/max/m2i8K9m2i8G6b1G6/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=anaconda)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
